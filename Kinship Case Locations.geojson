@@ -1,0 +1,225 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.30632,38.847118 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Fairfax, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.30632,38.847118 ]
+    },
+    "properties": {
+    "Status":"Closed",
+    "Location":"Fairfax, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.30632,38.847118 ]
+    },
+    "properties": {
+    "Status":"Closed",
+    "Location":"Fairfax, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.30632,38.847118 ]
+    },
+    "properties": {
+    "Status":"Closed",
+    "Location":"Fairfax, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757378,41.500751 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Connecticut, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757378,41.500751 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Connecticut, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757378,41.500751 ]
+    },
+    "properties": {
+    "Status":"Closed",
+    "Location":"Connecticut, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.587379,38.190269 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Spotsylvania, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.587379,38.190269 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Spotsylvania, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.587379,38.190269 ]
+    },
+    "properties": {
+    "Status":"Closed",
+    "Location":"Spotsylvania, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.587379,38.190269 ]
+    },
+    "properties": {
+    "Status":"Closed",
+    "Location":"Spotsylvania, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.587379,38.190269 ]
+    },
+    "properties": {
+    "Status":"Closed",
+    "Location":"Spotsylvania, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005974,40.712776 ]
+    },
+    "properties": {
+    "Status":"Pending",
+    "Location":"New York, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005974,40.712776 ]
+    },
+    "properties": {
+    "Status":"Pending",
+    "Location":"New York, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005974,40.712776 ]
+    },
+    "properties": {
+    "Status":"Pending",
+    "Location":"New York, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005974,40.712776 ]
+    },
+    "properties": {
+    "Status":"Pending",
+    "Location":"New York, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005974,40.712776 ]
+    },
+    "properties": {
+    "Status":"Pending",
+    "Location":"New York, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.298008,37.291418 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Hopewell, Virginia, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -77.838886,40.896694 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Pennsylvania, United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.928677,36.766128 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Halifax, Virginia, United States"
+    }
+  }
+]
+}
