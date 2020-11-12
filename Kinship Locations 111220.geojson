@@ -1,0 +1,125 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3111,38.841 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Fairfax, Virginia, United States",
+    "Count":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3199,38.851 ]
+    },
+    "properties": {
+    "Status":"Permanency Achieved",
+    "Location":"Fairfax, Virginia, United States",
+    "Count":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7611,41.511 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Connecticut, United States",
+    "Count":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7699,41.599 ]
+    },
+    "properties": {
+    "Status":"Permanency Achieved",
+    "Location":"Connecticut, United States",
+    "Count":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5911,38.19 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Spotsylvania, Virginia, United States",
+    "Count":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5999,38.1999 ]
+    },
+    "properties": {
+    "Status":"Permanency Achieved",
+    "Location":"Spotsylvania, Virginia, United States",
+    "Count":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01,40.71 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"New York, United States",
+    "Count":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3,37.29 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Hopewell, Virginia, United States",
+    "Count":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.84,40.9 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Pennsylvania, United States",
+    "Count":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.93,36.77 ]
+    },
+    "properties": {
+    "Status":"Open",
+    "Location":"Halifax, Virginia, United States",
+    "Count":1
+    }
+  }
+]
+}
